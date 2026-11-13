@@ -1,74 +1,60 @@
-<div align="center">
+<p align="center"><img src="https://raw.githubusercontent.com/FrankRibe/FrankRibe/main/assets/frank-ribeiro-cover.svg" width="100%" alt="Frank Ribeiro — Gerente de Projetos. Pessoas, processos e tecnologia. Planejar, conectar e entregar." /></p>
 
-# Frank Ribeiro
+<p align="center"><a href="https://www.linkedin.com/in/frankribeirooficial/"><strong>Vamos conversar no LinkedIn ↗</strong></a> &nbsp; · &nbsp; <a href="#projetos-selecionados">Conheça minhas contribuições ↓</a></p>
 
-### Gerente de Projetos · Implementação SaaS · Tecnologia
+## Gestão com compreensão técnica.
 
-Conectando gestão de projetos e conhecimento técnico.
+Sou **Frank Ribeiro, gerente de projetos na Alest Consultoria**, com atuação em **implementação SaaS e modernização de sistemas**. Minha trajetória combina gestão com experiência prática em desenvolvimento de software.
 
-[LinkedIn](https://www.linkedin.com/in/frankribeirooficial/) · [Contribuições no GitHub](https://github.com/FrankRibe?tab=overview)
+Entender como sistemas são construídos amplia minha visão sobre dependências, integrações e os desafios por trás de cada entrega.
 
-</div>
+<table>
+<tr>
+<td width="33%" valign="top"><sub>01 / ATUAÇÃO</sub><br/><br/><strong>Projetos de tecnologia</strong><br/><br/>Implementação de soluções SaaS e modernização de sistemas.</td>
+<td width="33%" valign="top"><sub>02 / PERSPECTIVA</sub><br/><br/><strong>Gestão + base técnica</strong><br/><br/>Experiência prática com APIs, bancos de dados e integrações.</td>
+<td width="33%" valign="top"><sub>03 / DESENVOLVIMENTO</sub><br/><br/><strong>Aprendizado contínuo</strong><br/><br/>Formação complementar em gestão de projetos e Scrum.</td>
+</tr>
+</table>
 
----
+## Projetos selecionados
 
-## Sobre mim
+Projetos acadêmicos desenvolvidos em equipe. Abaixo, as entregas em que contribuí diretamente.
 
-Sou gerente de projetos e atuo na Alest Consultoria com programas de implementação SaaS e modernização de sistemas.
+<table>
+<tr>
+<td width="50%" valign="top">
+<sub>01 / APLICAÇÃO WEB</sub>
+<h3>Agenda Angélica</h3>
+<p>Organização de serviços, clientes e agendamentos.</p>
+<p><strong>Minha contribuição</strong><br/>Estrutura e organização de rotas, integração Flask/PostgreSQL com Docker e melhorias nas regras de horários e na interface de agendamento.</p>
+<p><sub>PYTHON · FLASK · POSTGRESQL · DOCKER</sub></p>
+<p><a href="https://github.com/andrepsousa/agenda_angelica"><strong>Ver projeto e contribuições ↗</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<sub>02 / API &amp; INTEGRAÇÕES</sub>
+<h3>Gestão de Estoque</h3>
+<p>Gerenciamento de produtos e vendas para pequenos mercados.</p>
+<p><strong>Minha contribuição</strong><br/>Gerenciamento e ativação de produtos por vendedor, integração com WhatsApp via Twilio, validação de CNPJ duplicado e ajustes de rotas.</p>
+<p><sub>PYTHON · FLASK · JWT · TWILIO</sub></p>
+<p><a href="https://github.com/andrepsousa/ms-market-management"><strong>Ver projeto e contribuições ↗</strong></a></p>
+</td>
+</tr>
+</table>
 
-Neste espaço, compartilho minha base técnica por meio de projetos acadêmicos desenvolvidos em equipe. Minha participação inclui construção de APIs, integração com serviços externos, persistência de dados e configuração de ambientes com Docker.
+<details>
+<summary><strong>Formação complementar e credenciais</strong></summary>
 
-Minha trajetória reúne gestão de projetos e experiência prática com desenvolvimento de software — uma combinação que amplia minha compreensão das entregas e dos desafios técnicos envolvidos em um projeto.
+- Gerenciamento de Projetos com Ênfase no PMI — Da Iniciação ao Planejamento · Impacta Tecnologia.
+- Scrum — Gestão e Desenvolvimento Ágil de Projetos · Impacta Tecnologia.
+- Miro Essentials · Miro.
+- Notion Essentials Badge · Notion.
 
-## Gestão e desenvolvimento profissional
+Cursos e credenciais de aprendizagem; detalhes no [LinkedIn](https://www.linkedin.com/in/frankribeirooficial/).
 
-- **Atuação:** gestão de projetos, implementação SaaS e modernização de sistemas.
-- **Formação complementar:** cursos de gerenciamento de projetos com ênfase no PMI e de Scrum pela Impacta Tecnologia.
-- **Credenciais:** Miro Essentials e Notion Essentials Badge.
+</details>
 
-Mais informações sobre minha experiência e formação estão no [LinkedIn](https://www.linkedin.com/in/frankribeirooficial/).
-
-## Projetos em destaque
-
-### Agenda Angélica
-
-Aplicação web para agendamento de serviços, com clientes, serviços, disponibilidade de horários e histórico de atendimentos.
-
-**Minha contribuição:** estrutura inicial e organização de rotas, integração Flask/PostgreSQL com Docker Compose, ajustes de fuso horário, regras de horários e melhorias no formulário e na interface de agendamento.
-
-**Tecnologias:** Python · Flask · PostgreSQL · Docker · HTML · CSS
-
-[Explorar projeto e minhas contribuições →](https://github.com/andrepsousa/agenda_angelica)
-
-### Gestão de Estoque para Mini Mercados
-
-API para cadastro de vendedores, gerenciamento de produtos e registro de vendas, com autenticação JWT e ativação de conta por WhatsApp.
-
-**Minha contribuição:** implementação do gerenciamento de produtos associado ao vendedor autenticado, ativação de produtos, integração com Twilio, validação de CNPJ duplicado e ajustes de rotas e ambiente.
-
-**Tecnologias:** Python · Flask · PostgreSQL · SQLAlchemy · JWT · Twilio
-
-[Explorar projeto e minhas contribuições →](https://github.com/andrepsousa/ms-market-management)
-
-> Os dois projetos foram desenvolvidos em equipe durante a faculdade. Os READMEs detalham minhas entregas e apresentam links para os respectivos commits.
-
-## Base técnica
-
-| Área | Experiência demonstrada nos projetos |
-| --- | --- |
-| Backend | Python, Flask e APIs REST |
-| Dados | PostgreSQL e SQLAlchemy |
-| Integrações | Twilio e WhatsApp |
-| Ambiente | Docker e Docker Compose |
-| Colaboração | Git e GitHub |
-| Interface web | HTML, CSS e JavaScript |
+<br/>
 
 ---
 
-<div align="center">
-
-**Vamos conversar sobre projetos e tecnologia?**
-
-[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/frankribeirooficial/)
-
-</div>
+<p align="center"><strong>Projetos conectam pessoas. Tecnologia amplia possibilidades.</strong><br/><br/><a href="https://www.linkedin.com/in/frankribeirooficial/">Experiência profissional e contato no LinkedIn ↗</a></p>
