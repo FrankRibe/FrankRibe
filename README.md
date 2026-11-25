@@ -1,45 +1,40 @@
-<p align="center"><img src="https://raw.githubusercontent.com/FrankRibe/FrankRibe/main/assets/frank-ribeiro-cover.svg" width="100%" alt="Frank Ribeiro — Gerente de Projetos. Pessoas, processos e tecnologia. Planejar, conectar e entregar." /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/FrankRibe/FrankRibe/main/assets/frank-ribeiro-cover.svg" width="100%" alt="Frank Ribeiro" /></p>
 
-<p align="center"><a href="https://www.linkedin.com/in/frankribeirooficial/"><strong>Vamos conversar no LinkedIn ↗</strong></a> &nbsp; · &nbsp; <a href="#projetos-selecionados">Conheça minhas contribuições ↓</a></p>
+# Gerente de projetos e desenvolvedor web freelancer
 
-## Gestão com compreensão técnica.
+Sou **Frank Ribeiro**. Na Alest Consultoria, gerencio projetos de implantação SaaS e modernização de sistemas, alinhando prioridades, prazos e critérios de entrega com clientes e equipes técnicas.
 
-Sou **Frank Ribeiro, gerente de projetos na Alest Consultoria**, com atuação em **implementação SaaS e modernização de sistemas**. Minha trajetória combina gestão com experiência prática em desenvolvimento de software.
+Como freelancer, desenvolvo **sites institucionais, vitrines de e-commerce e interfaces responsivas**, com foco em front-end e atuação full stack. Trabalho com HTML, CSS e JavaScript e também desenvolvo APIs e integrações com Node.js e Python/Flask.
 
-Entender como sistemas são construídos amplia minha visão sobre dependências, integrações e os desafios por trás de cada entrega.
+[LinkedIn](https://www.linkedin.com/in/frankribeirooficial/) · [Perfil no 99Freelas](https://www.99freelas.com.br/user/frankribeiro)
 
-<table>
-<tr>
-<td width="33%" valign="top"><sub>01 / ATUAÇÃO</sub><br/><br/><strong>Projetos de tecnologia</strong><br/><br/>Implementação de soluções SaaS e modernização de sistemas.</td>
-<td width="33%" valign="top"><sub>02 / PERSPECTIVA</sub><br/><br/><strong>Gestão + base técnica</strong><br/><br/>Experiência prática com APIs, bancos de dados e integrações.</td>
-<td width="33%" valign="top"><sub>03 / DESENVOLVIMENTO</sub><br/><br/><strong>Aprendizado contínuo</strong><br/><br/>Formação complementar em gestão de projetos e Scrum.</td>
-</tr>
-</table>
+## Projetos recentes
 
-## Projetos selecionados
+### Site institucional da Dra. Jaqueline Dantas
 
-Projetos acadêmicos desenvolvidos em equipe. Abaixo, as entregas em que contribuí diretamente.
+Desenvolvi o front-end responsivo para apresentar a profissional, seus tratamentos e a clínica. O site inclui galerias de resultados, uma seção de localização com opções de trajeto e chamadas para agendamento. Desenvolvido em **HTML, CSS e JavaScript** e publicado no GitHub Pages.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<sub>01 / APLICAÇÃO WEB</sub>
-<h3>Agenda Angélica</h3>
-<p>Organização de serviços, clientes e agendamentos.</p>
-<p><strong>Minha contribuição</strong><br/>Estrutura e organização de rotas, integração Flask/PostgreSQL com Docker e melhorias nas regras de horários e na interface de agendamento.</p>
-<p><sub>PYTHON · FLASK · POSTGRESQL · DOCKER</sub></p>
-<p><a href="https://github.com/andrepsousa/agenda_angelica"><strong>Ver projeto e contribuições ↗</strong></a></p>
-</td>
-<td width="50%" valign="top">
-<sub>02 / API &amp; INTEGRAÇÕES</sub>
-<h3>Gestão de Estoque</h3>
-<p>Gerenciamento de produtos e vendas para pequenos mercados.</p>
-<p><strong>Minha contribuição</strong><br/>Gerenciamento e ativação de produtos por vendedor, integração com WhatsApp via Twilio, validação de CNPJ duplicado e ajustes de rotas.</p>
-<p><sub>PYTHON · FLASK · JWT · TWILIO</sub></p>
-<p><a href="https://github.com/andrepsousa/ms-market-management"><strong>Ver projeto e contribuições ↗</strong></a></p>
-</td>
-</tr>
-</table>
+[Ver site publicado](https://frankribe.github.io/site-dra-jaqueline-dantas/) · [Ver código](https://github.com/FrankRibe/site-dra-jaqueline-dantas)
+
+### JD Elita Modas · Vitrine online
+
+E-commerce de moda em desenvolvimento. Trabalhei na vitrine responsiva, na navegação por coleções, no catálogo com variações de cor e tamanho, na sacola e no checkout. O case no meu portfólio mostra a vitrine em um ambiente de demonstração com dados fictícios.
+
+[Ver portfólio no 99Freelas](https://www.99freelas.com.br/user/frankribeiro)
+
+## Projetos colaborativos
+
+### Agenda Angélica
+
+Aplicação web para organizar serviços, clientes e agendamentos. Contribuí para a estrutura das rotas, a integração de **Flask e PostgreSQL com Docker** e as melhorias nas regras de horários e na interface de agendamento.
+
+[Ver repositório](https://github.com/andrepsousa/agenda_angelica)
+
+### Gestão de Estoque
+
+Sistema para gerenciamento de produtos e vendas de pequenos mercados. Contribuí para o gerenciamento e a ativação de produtos por vendedor, a validação de CNPJ duplicado, os ajustes de rotas e a integração com WhatsApp via **Twilio**. O projeto utiliza **Python, Flask e JWT**.
+
+[Ver repositório](https://github.com/andrepsousa/ms-market-management)
 
 <details>
 <summary><strong>Formação complementar e credenciais</strong></summary>
@@ -49,12 +44,6 @@ Projetos acadêmicos desenvolvidos em equipe. Abaixo, as entregas em que contrib
 - Miro Essentials · Miro.
 - Notion Essentials Badge · Notion.
 
-Cursos e credenciais de aprendizagem; detalhes no [LinkedIn](https://www.linkedin.com/in/frankribeirooficial/).
+Mais cursos e credenciais no [LinkedIn](https://www.linkedin.com/in/frankribeirooficial/).
 
 </details>
-
-<br/>
-
----
-
-<p align="center"><strong>Projetos conectam pessoas. Tecnologia amplia possibilidades.</strong><br/><br/><a href="https://www.linkedin.com/in/frankribeirooficial/">Experiência profissional e contato no LinkedIn ↗</a></p>
