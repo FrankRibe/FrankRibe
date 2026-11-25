@@ -2,7 +2,7 @@
 
 # Gerente de projetos e desenvolvedor web freelancer
 
-Sou **Frank Ribeiro**. Na Alest Consultoria, gerencio projetos de implantação SaaS e modernização de sistemas, alinhando prioridades, prazos e critérios de entrega com clientes e equipes técnicas.
+Sou **Frank Ribeiro, gerente de projetos na Alest Consultoria e desenvolvedor web freelancer**. Na Alest, lidero projetos de implantação SaaS e modernização de sistemas, alinhando prioridades, prazos e critérios de entrega com clientes e equipes técnicas.
 
 Como freelancer, desenvolvo **sites institucionais, vitrines de e-commerce e interfaces responsivas**, com foco em front-end e atuação full stack. Trabalho com HTML, CSS e JavaScript e também desenvolvo APIs e integrações com Node.js e Python/Flask.
 
